@@ -42,10 +42,8 @@ Nous explorons deux cas d'usage fondamentaux : l'agrégation de données structu
 ---
 
 ## 📂 Structure du Projet
+<img width="702" height="685" alt="image" src="https://github.com/user-attachments/assets/d4ee22b7-6372-4e55-9e29-e3d9de307fcb" />
 
-. ├── src/ │ ├── main/ │ │ ├── java/ │ │ │ ├── Ex1_Ventes/ │ │ │ │ ├── TotalVentesParVille.java │ │ │ │ └── VentesParAnneeVille.java │ │ │ └── Ex2_Logs/ │ │ │ └── AnalyseLogs.java │ └── test/ ├── data/ │ ├── ventes.txt │ └── access.log ├── pom.xml (ou build.gradle) └── README.md
-
-*Le répertoire `data/` contient les fichiers sources nécessaires à l'exécution du TP.*
 
 ---
 
